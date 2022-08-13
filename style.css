@@ -1,0 +1,19 @@
+body{
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 3rem;
+    background-color: #000000;
+    color: #fee4c4;
+    text-align: center;
+}
+
+button{
+    padding: 1rem;
+    background-color: #daa520;
+    border: none;
+    border-radius: 5px;
+    margin: 10px;
+    box-shadow: #fee4c4;
+   
+    
+}
